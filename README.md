@@ -4,10 +4,10 @@ This repo is for graphical things related to unixMiB
 
 ## Logo
 
-![logo.svg](Official Logo)
+![Official Logo](logo.svg)
+
+![Official Name](logo-name.svg) 
+
+![Stickerized Version](logo-sticker.svg)
 
 
-![sticker.svg]()
-
-
-![logo-name.svg]() 
