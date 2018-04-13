@@ -44,3 +44,7 @@ You can access to different variants and scales for our branding resources
   - Inverted
     - [Combination Mark inverted](Combination%20Mark%20Inverted)
     - [Combination Mark with margin inverted](Combination%20Mark%20Inverted)
+
+## License
+
+Distributed material is under Creative Commons Attribution-ShareAlike 4.0 International unless otherwise specified
