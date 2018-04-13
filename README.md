@@ -23,6 +23,18 @@ This is unixMiB official color palette:
   - RGB: 189, 189, 189
   - CMY: 0.2588, 0.2588, 0.2588
 
+## Fonts
+
+The unixMiB branding and pages are using the following fonts:
+
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+  - Used on web pages and other media
+- [Noto Serif](https://www.google.com/get/noto/)
+  - Used on the "unix" logotype part, together with dark gray
+- [Noto Sans](https://www.google.com/get/noto/)
+  - Used on the "MiB" logotype bolded part, together with green accent
+- [Noto Mono](https://www.fontsquirrel.com/fonts/noto-mono)
+
 ## Logo variants
 
 You can access to different variants and scales for our branding resources
