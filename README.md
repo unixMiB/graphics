@@ -42,6 +42,9 @@ You can access to different variants and scales for our branding resources
 - Logo
   - [Logo](Logo)
   - [Logo with margin](Logo%20Margin)
+- Sticker
+  - [Sticker](Sticker)
+  - [Sticker with margin](Sticker%20Margin)
 - Logotype
   - Normal
     - [Logotype](Logotype)
