@@ -7,21 +7,21 @@ This repo is for graphical things related to unixMiB
 This is unixMiB official color palette:
 
 - Green accent
-  - #2DA235
+  - HEX: #2DA235
   - RGB: 45, 162, 53
-  - CMY: 82, 36, 79
+  - CMYK: 82, 36, 79
 - Dark gray
-  - #424242
+  - HEX: #424242
   - RGB: 66, 66, 66
-  - CMY: 74, 74, 74
+  - CMYK: 74, 74, 74
 - Gray
-  - #757575
+  - HEX: #757575
   - RGB: 117, 117, 117
-  - CMY: 54, 54, 54
+  - CMYK: 54, 54, 54
 - Light gray
-  - #BDBDBD
+  - HEX: #BDBDBD
   - RGB: 189, 189, 189
-  - CMY: 0.2588, 0.2588, 0.2588
+  - CMYK: 0.2588, 0.2588, 0.2588
 
 ## Fonts
 
