@@ -35,30 +35,30 @@ The unixMiB branding and pages are using the following fonts:
   - Used on the "MiB" logotype bolded part, together with green accent
 - [Noto Mono](https://www.fontsquirrel.com/fonts/noto-mono)
 
-## Logo variants
+## Old Logo variants
 
 You can access to different variants and scales for our branding resources
 
 - Logo
-  - [Logo](Logo)
-  - [Logo with margin](Logo%20Margin)
+  - [Logo](Old%Logo/Logo)
+  - [Logo with margin](Old%20Logo/Logo%20Margin)
 - Sticker
-  - [Sticker](Sticker)
-  - [Sticker with margin](Sticker%20Margin)
+  - [Sticker](Old%Logo/Sticker)
+  - [Sticker with margin](Old%20Logo/Sticker%20Margin)
 - Logotype
   - Normal
-    - [Logotype](Logotype)
-    - [Logotype with margin](Logotype%20Margin)
+    - [Logotype](Old%20Logo/Logotype)
+    - [Logotype with margin](Old%20Logo/Logotype%20Margin)
   - Inverted
-    - [Logotype inverted](Logotype%20Inverted)
-    - [Logotype with margin inverted](Logotype%20Margin%20Inverted)
+    - [Logotype inverted](Old%20Logo/Logotype%20Inverted)
+    - [Logotype with margin inverted](Old%20Logo/Logotype%20Margin%20Inverted)
 - Combination Mark
   - Normal
-    - [Combination Mark](Combination%20Mark)
-    - [Combination Mark with margin](Combination%20Mark)
+    - [Combination Mark](Old%20Logo/Combination%20Mark)
+    - [Combination Mark with margin](Old%20Logo/Combination%20Mark)
   - Inverted
-    - [Combination Mark inverted](Combination%20Mark%20Inverted)
-    - [Combination Mark with margin inverted](Combination%20Mark%20Inverted)
+    - [Combination Mark inverted](Old%20Logo/Combination%20Mark%20Inverted)
+    - [Combination Mark with margin inverted](Old%Logo/Combination%20Mark%20Inverted)
 
 ## License
 
