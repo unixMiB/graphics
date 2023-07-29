@@ -35,9 +35,23 @@ The unixMiB branding and pages are using the following fonts:
   - Used on the "MiB" logotype bolded part, together with green accent
 - [Noto Mono](https://www.fontsquirrel.com/fonts/noto-mono)
 
-## Old Logo variants
+
+## New Logo variants
 
 You can access to different variants and scales for our branding resources
+
+- Color
+  - Classic (main color is green)
+  - Rainbow
+- Combination mark
+  - east: unixMiB writing is on the right
+  - south: unixMiB writing is under the logo
+  - inside: unixMiB writing is inside the logo
+- Inverted (suitable for dark mode, writings are white)
+- No margin (the light margin around the logo is absent)
+
+
+## Old Logo variants
 
 - Logo
   - [Logo](Old%Logo/Logo)
